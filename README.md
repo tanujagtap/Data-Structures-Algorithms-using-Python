@@ -1,2 +1,2 @@
-# Data-Structures-Algorithms-using-Python
+# DSA using cpp
 This is my DSA repository containing every Leetcode problem solved using Python. Checkout my Leetcode account (https://leetcode.com/u/user0297kn/)
